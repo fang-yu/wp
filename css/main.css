@@ -1,0 +1,23 @@
+.one {
+	padding-left: 7%;
+	padding-right: 7%;
+	padding-top: 10%;
+	padding-bottom: 10%;
+	background: url(../images/header.jpg);
+	color: white;
+}
+
+
+.two {
+	padding-top: 3%;
+}
+
+.three {
+	padding: 5%;
+
+}
+
+.four {
+	padding-left: 5%;
+	padding-bottom: 5%;
+}
